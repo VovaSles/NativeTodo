@@ -2,6 +2,7 @@
   "expo": {
     "name": "targilim",
     "slug": "targilim",
+    "owner": "vovaslesarev",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
